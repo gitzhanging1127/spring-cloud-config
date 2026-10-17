@@ -1,0 +1,4 @@
+# 自定义配置，用来验证config是否读取成功
+config:
+  info: "this is spring cloud config dev环境，gitee远程配置文件"
+  author: "mdoudou"
